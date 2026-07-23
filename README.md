@@ -72,3 +72,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=laiba-qaiser2&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiba-qaiser2&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
 </p>
+<a href="https://github.com/laiba-qaiser2">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Aspiring+AI+%26+ML+Engineer;Full-Stack+Developer;BSCS+Student+at+Minhaj+University" alt="Typing SVG" />
+</a>
